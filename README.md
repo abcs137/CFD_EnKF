@@ -1,2 +1,1 @@
-# CFD_EnKF
-Utilizing Data Assimilation in the context of the Ensemble Kalman Filter to adjust the parameters of the k-ω SST turbulence model
+使用EnkF来自动调整k-ω SST湍流模型的参数
