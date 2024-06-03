@@ -123,6 +123,6 @@ def main(csv_file, output_size):
 
 # 示例用法
 if __name__ == "__main__":
-    csv_file = 'raoliu.csv'  # 替换为你的CSV文件路径
+    csv_file = 'data\\raoliu.csv'  # 替换为你的CSV文件路径
     output_size = (1000, 600)  # 输出图像的尺寸
     main(csv_file, output_size)

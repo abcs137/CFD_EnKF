@@ -1,5 +1,5 @@
 import numpy as np
-
+import matplotlib.pyplot as plt
 # 定义真实函数和模型函数
 def y_true(x):
     return 0.6 * (6 * x - 2)**2 * np.sin(12 * x - 4) + 2 * (x - 0.5) - 1
@@ -47,7 +47,7 @@ final_params = np.mean(ensembles, axis=0)
 print(f'Final parameters: {final_params}')
 
 
-import matplotlib.pyplot as plt
+
 
 # 计算初始模型函数值
 initial_predictions = y_model(x, theta_0)
