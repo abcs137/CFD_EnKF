@@ -1,6 +1,6 @@
 import numpy as np
 
-def enkf_test(theta0, y_exp, N, R_var, num_iterations=10):
+def enkf_test(theta0, y_exp, N, R_var, Q_var, num_iterations=10):
     """
     测试集合卡尔曼滤波方法的函数
     
@@ -9,6 +9,7 @@ def enkf_test(theta0, y_exp, N, R_var, num_iterations=10):
     - y_exp: 观测值向量
     - N: 样本数量
     - R_var: 观测噪声方差
+    - Q_var: 过程噪声方差
     - num_iterations: 进行多次计算以求平均值，增加算法稳定性
     
     返回：
@@ -31,7 +32,7 @@ def enkf_test(theta0, y_exp, N, R_var, num_iterations=10):
         pass
 
     # 生成初始样本集合
-    samples = np.random.multivariate_normal(theta0, np.eye(len(theta0)), N)
+    samples = np.random.multivariate_normal(theta0, Q_var * np.eye(len(theta0)), N)
     xf_samples = np.array([M(sample) for sample in samples])
 
     # 计算样本均值
@@ -66,6 +67,7 @@ def enkf_test(theta0, y_exp, N, R_var, num_iterations=10):
 
     return x_a, theta_new
 
+
 # 示例输入
 theta0 = np.array([1.0, 0.1, 0.05])  # 模型初始参数值（例如：马赫数、攻角、湍流模型系数）
 y_exp = np.array([0.9, 0.2, 0.08])  # 观测值（例如：测量的马赫数）
@@ -73,7 +75,7 @@ N = 100  # 样本数量
 R_var = 0.01  # 观测噪声方差
 
 # 测试集合卡尔曼滤波方法
-x_a, theta_new = enkf_test(theta0, y_exp, N, R_var)
+x_a, theta_new = enkf_test(theta0, y_exp, N, R_var,Q_var=0.5)
 
 print("同化后的状态变量均值：", x_a)
 print("校正后的模型参数值：", theta_new)

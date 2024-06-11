@@ -12,7 +12,7 @@ def y_model(x, params):
 theta_0 = np.array([6, 2, 12, 5])
 num_ensembles = 100
 param_dim = len(theta_0)
-x = np.linspace(0, 1, 11)
+x = np.linspace(0, 1, 110)
 observations = y_true(x)
 
 # 创建初始集合
