@@ -9,15 +9,15 @@ def y_model(x, params):
     return (a * x - b)**2 * np.sin(c * x - d)
 
 # 初始化参数
-theta_0 = np.array([6, 2, 12, 5])
+theta_0 = np.array([4, 4, 10, 5])
 num_ensembles = 100
 param_dim = len(theta_0)
 x = np.linspace(0, 1, 110)
 observations = y_true(x)
 
 # 创建初始集合
-ensembles = np.random.normal(loc=theta_0, scale=1.0, size=(num_ensembles, param_dim))
 
+ensembles = np.random.normal(loc=theta_0, scale=1.0, size=(num_ensembles, param_dim))
 # 定义噪声协方差矩阵
 R = np.eye(len(x)) * 0.1
 
@@ -25,7 +25,6 @@ R = np.eye(len(x)) * 0.1
 for iteration in range(50):  # 假设迭代 50 次
     # 预测步骤
     predictions = np.array([y_model(x, ensemble) for ensemble in ensembles])
-    
     # 计算集合平均
     ensemble_mean = np.mean(predictions, axis=0)
     param_mean = np.mean(ensembles, axis=0)
