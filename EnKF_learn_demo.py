@@ -21,8 +21,8 @@ lhs_samples = lhs(num_params, samples=num_samples)
 
 # 将样本映射到指定范围
 params_samples = param_ranges[0] + (param_ranges[1] - param_ranges[0]) * lhs_samples
-print(params_samples)
-print(params_samples.shape)
+#print(params_samples)
+#print(params_samples.shape)
 
 # 定义 x 的值
 x_values =  np.linspace(0, 1, 100)
@@ -34,14 +34,14 @@ result_matrix = np.zeros((len(x_values) + num_params, num_samples))
 for i, params in enumerate(params_samples):
     result_matrix[:len(x_values), i] = y_model(x_values, params)
     result_matrix[len(x_values):, i] = params
-    print(params.shape)
+    #print(params.shape)
 # 计算观测值
 y_observed = y_true(x_values)
 
-print("Result Matrix:")
-print(result_matrix)
-print("Observed y:")
-print(y_observed)
+#print("Result Matrix:")
+#print(result_matrix)
+#print("Observed y:")
+#print(y_observed)
 
 # 假设状态向量维度 n = 14，观测向量维度 m = 10，集合成员数 N = 100
 n = len(x_values) + num_params  # 状态向量的维度
@@ -57,9 +57,9 @@ H = np.eye(m, n)
 
 # 初始化协方差矩阵 P_f 和观测误差协方差矩阵 R
 
-R = np.eye(m) * 0.1      # 观测误差协方差矩阵（m x m）
+R = np.eye(m) * 0.3      # 观测误差协方差矩阵（m x m）
 
-for iteration in range(50):
+for iteration in range(10):
 
     P_f = np.cov(X_f)   # 状态协方差矩阵（n x n）
     # 计算增益矩阵 K
@@ -71,8 +71,8 @@ for iteration in range(50):
 
 
 
-print("Updated State Matrix:")
-print(X_f)
+#print("Updated State Matrix:")
+#print(X_f)
 
 row_means = np.mean(X_f, axis=1)
 # 提取 row_means 的前十个元素
@@ -91,8 +91,8 @@ for i in range(result_matrix.shape[1]):
         min_index = i
 
 # 输出最相似列的索引以及该列的最后四个元素
-print("Most similar column index:", min_index)
-print("Last four elements of the most similar column:", result_matrix[-4:, min_index])
+#print("Most similar column index:", min_index)
+#print("Last four elements of the most similar column:", result_matrix[-4:, min_index])
 
 # 提取最后四个均值作为参数 a, b, c, d
 params_from_means = result_matrix[-4:, min_index]
