@@ -1,0 +1,900 @@
+TURBULENCE MODEL:
+    A1 Coefficient = 0.257116
+    BetaStar Coefficient = 0.080174
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.375449
+        Beta Coefficient = 0.066451
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.609788
+        Beta Coefficient = 0.074162
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.300105
+    BetaStar Coefficient = 0.104179
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.379779
+        Beta Coefficient = 0.083025
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.473617
+        Beta Coefficient = 0.072452
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.336548
+    BetaStar Coefficient = 0.077414
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.431129
+        Beta Coefficient = 0.079827
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.646662
+        Beta Coefficient = 0.083982
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.357554
+    BetaStar Coefficient = 0.082373
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.391337
+        Beta Coefficient = 0.084365
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.498866
+        Beta Coefficient = 0.069600
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.345714
+    BetaStar Coefficient = 0.102382
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.401417
+        Beta Coefficient = 0.088432
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.627501
+        Beta Coefficient = 0.074551
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.296852
+    BetaStar Coefficient = 0.087840
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.489327
+        Beta Coefficient = 0.077219
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.635601
+        Beta Coefficient = 0.075027
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.348587
+    BetaStar Coefficient = 0.082859
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.413243
+        Beta Coefficient = 0.094951
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.505693
+        Beta Coefficient = 0.080948
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.359780
+    BetaStar Coefficient = 0.089890
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.395550
+        Beta Coefficient = 0.091167
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.455122
+        Beta Coefficient = 0.077901
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.342986
+    BetaStar Coefficient = 0.097598
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.461628
+        Beta Coefficient = 0.091664
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.549878
+        Beta Coefficient = 0.086512
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.259407
+    BetaStar Coefficient = 0.090552
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.359572
+        Beta Coefficient = 0.082639
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.566567
+        Beta Coefficient = 0.079428
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.319685
+    BetaStar Coefficient = 0.074353
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.447469
+        Beta Coefficient = 0.099358
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.584389
+        Beta Coefficient = 0.088219
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.337318
+    BetaStar Coefficient = 0.076415
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.402193
+        Beta Coefficient = 0.079460
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.660100
+        Beta Coefficient = 0.089436
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.302738
+    BetaStar Coefficient = 0.072295
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.368728
+        Beta Coefficient = 0.074027
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.494472
+        Beta Coefficient = 0.064441
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.324025
+    BetaStar Coefficient = 0.091954
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.429256
+        Beta Coefficient = 0.076078
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.563478
+        Beta Coefficient = 0.078446
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.320744
+    BetaStar Coefficient = 0.081997
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.504243
+        Beta Coefficient = 0.098069
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.536912
+        Beta Coefficient = 0.085502
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.351188
+    BetaStar Coefficient = 0.104749
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.446284
+        Beta Coefficient = 0.067407
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.623441
+        Beta Coefficient = 0.082342
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.295044
+    BetaStar Coefficient = 0.073668
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.452892
+        Beta Coefficient = 0.095812
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.589105
+        Beta Coefficient = 0.069903
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.283570
+    BetaStar Coefficient = 0.088687
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.352427
+        Beta Coefficient = 0.078441
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.581059
+        Beta Coefficient = 0.061184
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.352847
+    BetaStar Coefficient = 0.100949
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.363269
+        Beta Coefficient = 0.075433
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.644271
+        Beta Coefficient = 0.066382
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.267950
+    BetaStar Coefficient = 0.086011
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.514352
+        Beta Coefficient = 0.089261
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.524313
+        Beta Coefficient = 0.084854
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.292525
+    BetaStar Coefficient = 0.072810
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.380560
+        Beta Coefficient = 0.090150
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.630512
+        Beta Coefficient = 0.079161
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.280753
+    BetaStar Coefficient = 0.101762
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.438957
+        Beta Coefficient = 0.074193
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.637346
+        Beta Coefficient = 0.064911
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.311365
+    BetaStar Coefficient = 0.084721
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.497203
+        Beta Coefficient = 0.094530
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.490620
+        Beta Coefficient = 0.081090
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.255309
+    BetaStar Coefficient = 0.079447
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.511103
+        Beta Coefficient = 0.096876
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.601657
+        Beta Coefficient = 0.060406
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.366017
+    BetaStar Coefficient = 0.103592
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.489891
+        Beta Coefficient = 0.089645
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.466824
+        Beta Coefficient = 0.062975
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.267691
+    BetaStar Coefficient = 0.100406
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.478999
+        Beta Coefficient = 0.069955
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.652952
+        Beta Coefficient = 0.088868
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.278110
+    BetaStar Coefficient = 0.094247
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.358122
+        Beta Coefficient = 0.083909
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.573052
+        Beta Coefficient = 0.081909
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.288445
+    BetaStar Coefficient = 0.081135
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.443337
+        Beta Coefficient = 0.097950
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.559758
+        Beta Coefficient = 0.073709
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.341638
+    BetaStar Coefficient = 0.095766
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.502285
+        Beta Coefficient = 0.070237
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.511513
+        Beta Coefficient = 0.087847
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.334739
+    BetaStar Coefficient = 0.078204
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.482128
+        Beta Coefficient = 0.086797
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.578747
+        Beta Coefficient = 0.070659
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.315126
+    BetaStar Coefficient = 0.106625
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.387488
+        Beta Coefficient = 0.096062
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.470066
+        Beta Coefficient = 0.067149
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.270580
+    BetaStar Coefficient = 0.083700
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.524493
+        Beta Coefficient = 0.069318
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.514559
+        Beta Coefficient = 0.080067
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.306360
+    BetaStar Coefficient = 0.097021
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.389439
+        Beta Coefficient = 0.086636
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.445040
+        Beta Coefficient = 0.086392
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.273845
+    BetaStar Coefficient = 0.094944
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.416725
+        Beta Coefficient = 0.072668
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.518650
+        Beta Coefficient = 0.061802
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.354703
+    BetaStar Coefficient = 0.085413
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.373384
+        Beta Coefficient = 0.068534
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.541544
+        Beta Coefficient = 0.087200
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.371654
+    BetaStar Coefficient = 0.075793
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.433562
+        Beta Coefficient = 0.076177
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.483056
+        Beta Coefficient = 0.063048
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.299052
+    BetaStar Coefficient = 0.092264
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.525360
+        Beta Coefficient = 0.080592
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.449013
+        Beta Coefficient = 0.084283
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.276850
+    BetaStar Coefficient = 0.087598
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.459473
+        Beta Coefficient = 0.072027
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.533339
+        Beta Coefficient = 0.067574
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.248543
+    BetaStar Coefficient = 0.095452
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.473595
+        Beta Coefficient = 0.092142
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.612387
+        Beta Coefficient = 0.063909
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.330472
+    BetaStar Coefficient = 0.078521
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.468172
+        Beta Coefficient = 0.081158
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.529518
+        Beta Coefficient = 0.067823
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.250568
+    BetaStar Coefficient = 0.075209
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.424318
+        Beta Coefficient = 0.078011
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.500272
+        Beta Coefficient = 0.061231
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.362937
+    BetaStar Coefficient = 0.106483
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.456589
+        Beta Coefficient = 0.073021
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.594467
+        Beta Coefficient = 0.071134
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.314719
+    BetaStar Coefficient = 0.093479
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.520774
+        Beta Coefficient = 0.093690
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.461343
+        Beta Coefficient = 0.068747
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.367494
+    BetaStar Coefficient = 0.105476
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.422292
+        Beta Coefficient = 0.087891
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.547867
+        Beta Coefficient = 0.071974
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.309557
+    BetaStar Coefficient = 0.086967
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.405917
+        Beta Coefficient = 0.084852
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.603429
+        Beta Coefficient = 0.083080
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.329118
+    BetaStar Coefficient = 0.099496
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.482662
+        Beta Coefficient = 0.067868
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.616211
+        Beta Coefficient = 0.072750
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.286526
+    BetaStar Coefficient = 0.098313
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.469678
+        Beta Coefficient = 0.093257
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.479601
+        Beta Coefficient = 0.076089
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.262872
+    BetaStar Coefficient = 0.090865
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.495603
+        Beta Coefficient = 0.085984
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.553970
+        Beta Coefficient = 0.076449
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.327280
+    BetaStar Coefficient = 0.098919
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.508177
+        Beta Coefficient = 0.070917
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.656060
+        Beta Coefficient = 0.065858
+      END
+    END
+END
+
+TURBULENCE MODEL:
+    A1 Coefficient = 0.263443
+    BetaStar Coefficient = 0.107881
+    Option = SST
+    K EPSILON REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.408655
+        Beta Coefficient = 0.081636
+      END
+    END
+    K OMEGA REGIME:
+      OMEGA COEFFICIENTS:
+        Alpha Coefficient = 0.457761
+        Beta Coefficient = 0.077342
+      END
+    END
+END
+
