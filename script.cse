@@ -1,0 +1,50 @@
+# Session file started:  2024/09/11 14:00:23
+# CFX-24.1
+
+# To avoid unnecessary file pre-processing and modifications, include
+# COMMAND FILE at the top of your session file.
+# If it is not included, the file is assumed to be older and will be
+# modified for backward compatibility.
+COMMAND FILE:
+  CFX Post Version = 24.1
+END
+
+EXPORT:
+  ANSYS Export Data = Element Heat Flux
+  ANSYS File Format = ANSYS
+  ANSYS Reference Temperature = 0.0 [K]
+  ANSYS Specify Reference Temperature = Off
+  ANSYS Supplemental HTC = 0.0 [W m^-2 K^-1]
+  Additional Variable List =
+  BC Profile Type = Inlet Velocity
+  CSV Type = CSV
+Case Name = Case A1 baseline Ma0.69 4 i0.050_001
+  Export Connectivity = Off
+  Export Coord Frame = Global
+Export File = A1-baseline-Ma0.69-4-i0.050_001.csv
+  Export Geometry = On
+  Export Location Aliases =
+  Export Node Numbers = Off
+  Export Null Data = On
+  Export Type = Generic
+  Export Units System = Current
+  Export Variable Type = Current
+  External Export Data = None
+  Include File Information = Off
+  Include Header = On
+  Location = Blade
+  Location List = Default Domain
+  Null Token = null
+  Overwrite = On
+  Precision = 8
+  Separator = ", "
+  Spatial Variables = X,Y,Z
+  Variable List = Total Pressure
+  Vector Brackets = ()
+  Vector Display = Scalar
+END
+>export
+
+
+# Session file stopped:  2024/09/11 14:02:18
+

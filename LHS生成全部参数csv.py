@@ -13,8 +13,8 @@ K_OMEGA_REGIME_OMEGA_COEFFICIENTS_Beta_Coefficient = 0.075
 
 # 定义边界
 def get_bounds(value):
-    lower_bound = value * 0.8  # 减少20%
-    upper_bound = value * 1.2  # 增加20%
+    lower_bound = value * 0.4  # 减少20%
+    upper_bound = value * 2.5  # 增加500%
     return lower_bound, upper_bound
 
 bounds = np.array([
