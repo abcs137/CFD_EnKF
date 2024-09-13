@@ -56,17 +56,23 @@ n = len(x_values) + num_params  # 状态向量的维度
 m = len(x_values)
 N = num_samples
 
+print(m)
+print(n)
+###########################################################################
+
 # 使用 result_matrix 作为预测状态矩阵 X_f
 X_f = result_matrix  # 预测状态矩阵（n x N）
 y = y_observed       # 观测向量（m,）
 
 # 初始化观测矩阵 H
 H = np.eye(m, n)
-
+print(H.ndim)
+print(H)
 # 初始化协方差矩阵 P_f 和观测误差协方差矩阵 R
 
 R = np.eye(m) * 观测的方差      # 观测误差协方差矩阵（m x m）
-
+print(R.ndim)
+print(R)
 for iteration in range(迭代次数):
 
     P_f = np.cov(X_f)   # 状态协方差矩阵（n x n）

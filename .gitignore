@@ -1,6 +1,6 @@
 基于数据同化的涡轮平面叶栅流场预测与修正.doc
 docs/基于数据同化的涡轮平面叶栅流场预测与修正.
-
+data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

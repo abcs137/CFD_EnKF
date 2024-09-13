@@ -1,899 +1,899 @@
 TURBULENCE MODEL:
-    A1 Coefficient = 0.289241
-    BetaStar Coefficient = 0.125400
+    A1 Coefficient = 0.635735
+    BetaStar Coefficient = 0.140731
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.358266
-        Beta Coefficient = 0.170941
+        Alpha Coefficient = 0.627756
+        Beta Coefficient = 0.164842
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.232755
-        Beta Coefficient = 0.136020
+        Alpha Coefficient = 1.249245
+        Beta Coefficient = 0.084066
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.582829
-    BetaStar Coefficient = 0.217733
+    A1 Coefficient = 0.431938
+    BetaStar Coefficient = 0.145601
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.077563
-        Beta Coefficient = 0.110900
+        Alpha Coefficient = 0.650087
+        Beta Coefficient = 0.090569
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.077443
-        Beta Coefficient = 0.128494
+        Alpha Coefficient = 0.965169
+        Beta Coefficient = 0.186708
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.362155
-    BetaStar Coefficient = 0.195403
+    A1 Coefficient = 0.186224
+    BetaStar Coefficient = 0.222031
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.875741
-        Beta Coefficient = 0.099425
+        Alpha Coefficient = 0.975746
+        Beta Coefficient = 0.130230
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.884406
-        Beta Coefficient = 0.152930
+        Alpha Coefficient = 1.134515
+        Beta Coefficient = 0.097662
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.438007
-    BetaStar Coefficient = 0.155362
+    A1 Coefficient = 0.563503
+    BetaStar Coefficient = 0.072987
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.739713
-        Beta Coefficient = 0.146949
+        Alpha Coefficient = 0.716313
+        Beta Coefficient = 0.183808
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.180840
-        Beta Coefficient = 0.142870
+        Alpha Coefficient = 0.725050
+        Beta Coefficient = 0.068223
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.613546
-    BetaStar Coefficient = 0.070682
+    A1 Coefficient = 0.454015
+    BetaStar Coefficient = 0.082630
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.769596
-        Beta Coefficient = 0.085562
+        Alpha Coefficient = 0.475711
+        Beta Coefficient = 0.174246
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.141964
-        Beta Coefficient = 0.098744
+        Alpha Coefficient = 1.078883
+        Beta Coefficient = 0.045119
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.380323
-    BetaStar Coefficient = 0.044655
+    A1 Coefficient = 0.377240
+    BetaStar Coefficient = 0.129778
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.729769
-        Beta Coefficient = 0.033893
+        Alpha Coefficient = 0.441755
+        Beta Coefficient = 0.051119
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.566242
-        Beta Coefficient = 0.145878
+        Alpha Coefficient = 0.934388
+        Beta Coefficient = 0.048024
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.208534
-    BetaStar Coefficient = 0.189142
+    A1 Coefficient = 0.690072
+    BetaStar Coefficient = 0.203445
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.471274
-        Beta Coefficient = 0.128063
+        Alpha Coefficient = 0.666056
+        Beta Coefficient = 0.066960
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.307117
-        Beta Coefficient = 0.046260
+        Alpha Coefficient = 0.447903
+        Beta Coefficient = 0.175880
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.507051
-    BetaStar Coefficient = 0.193324
+    A1 Coefficient = 0.126316
+    BetaStar Coefficient = 0.168135
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.505734
-        Beta Coefficient = 0.132840
+        Alpha Coefficient = 0.874673
+        Beta Coefficient = 0.188469
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.523490
-        Beta Coefficient = 0.087459
+        Alpha Coefficient = 0.511081
+        Beta Coefficient = 0.100016
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.465428
-    BetaStar Coefficient = 0.120374
+    A1 Coefficient = 0.547684
+    BetaStar Coefficient = 0.118825
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.213284
-        Beta Coefficient = 0.098782
+        Alpha Coefficient = 0.901115
+        Beta Coefficient = 0.145552
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.641565
-        Beta Coefficient = 0.172364
+        Alpha Coefficient = 0.615252
+        Beta Coefficient = 0.095202
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.242399
-    BetaStar Coefficient = 0.094484
+    A1 Coefficient = 0.312125
+    BetaStar Coefficient = 0.194222
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.231684
-        Beta Coefficient = 0.041010
+        Alpha Coefficient = 0.427816
+        Beta Coefficient = 0.125412
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.257932
-        Beta Coefficient = 0.152032
+        Alpha Coefficient = 0.815378
+        Beta Coefficient = 0.105186
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.557826
-    BetaStar Coefficient = 0.079091
+    A1 Coefficient = 0.473877
+    BetaStar Coefficient = 0.074726
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.413427
-        Beta Coefficient = 0.121607
+        Alpha Coefficient = 1.037228
+        Beta Coefficient = 0.189791
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.464985
-        Beta Coefficient = 0.068661
+        Alpha Coefficient = 1.046375
+        Beta Coefficient = 0.174692
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.194736
-    BetaStar Coefficient = 0.041037
+    A1 Coefficient = 0.594980
+    BetaStar Coefficient = 0.179830
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.897394
-        Beta Coefficient = 0.161764
+        Alpha Coefficient = 0.842579
+        Beta Coefficient = 0.048288
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.055292
-        Beta Coefficient = 0.031102
+        Alpha Coefficient = 0.782473
+        Beta Coefficient = 0.134891
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.180372
-    BetaStar Coefficient = 0.140716
+    A1 Coefficient = 0.491857
+    BetaStar Coefficient = 0.041751
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.817403
-        Beta Coefficient = 0.125333
+        Alpha Coefficient = 0.959683
+        Beta Coefficient = 0.044847
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.729908
-        Beta Coefficient = 0.050835
+        Alpha Coefficient = 0.770876
+        Beta Coefficient = 0.125611
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.144511
-    BetaStar Coefficient = 0.186289
+    A1 Coefficient = 0.292807
+    BetaStar Coefficient = 0.206320
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.041506
-        Beta Coefficient = 0.157551
+        Alpha Coefficient = 0.941422
+        Beta Coefficient = 0.171246
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.312740
-        Beta Coefficient = 0.107832
+        Alpha Coefficient = 0.738703
+        Beta Coefficient = 0.034543
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.655269
-    BetaStar Coefficient = 0.216999
+    A1 Coefficient = 0.337905
+    BetaStar Coefficient = 0.175542
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.982568
-        Beta Coefficient = 0.140921
+        Alpha Coefficient = 0.321733
+        Beta Coefficient = 0.040593
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.319466
-        Beta Coefficient = 0.067277
+        Alpha Coefficient = 0.481746
+        Beta Coefficient = 0.042014
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.155751
-    BetaStar Coefficient = 0.090871
+    A1 Coefficient = 0.155056
+    BetaStar Coefficient = 0.134004
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.573849
-        Beta Coefficient = 0.187191
+        Alpha Coefficient = 0.895093
+        Beta Coefficient = 0.133249
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.865532
-        Beta Coefficient = 0.045229
+        Alpha Coefficient = 1.344482
+        Beta Coefficient = 0.116599
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.136772
-    BetaStar Coefficient = 0.111480
+    A1 Coefficient = 0.762314
+    BetaStar Coefficient = 0.060342
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.381724
-        Beta Coefficient = 0.185383
+        Alpha Coefficient = 0.369900
+        Beta Coefficient = 0.198212
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.286800
-        Beta Coefficient = 0.116948
+        Alpha Coefficient = 1.103032
+        Beta Coefficient = 0.088734
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.571378
-    BetaStar Coefficient = 0.167017
+    A1 Coefficient = 0.386357
+    BetaStar Coefficient = 0.081239
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.558208
-        Beta Coefficient = 0.179261
+        Alpha Coefficient = 0.773949
+        Beta Coefficient = 0.106772
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.336946
-        Beta Coefficient = 0.181055
+        Alpha Coefficient = 0.640095
+        Beta Coefficient = 0.131679
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.668555
-    BetaStar Coefficient = 0.104711
+    A1 Coefficient = 0.320319
+    BetaStar Coefficient = 0.187592
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.100510
-        Beta Coefficient = 0.049717
+        Alpha Coefficient = 0.760342
+        Beta Coefficient = 0.111870
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.362084
-        Beta Coefficient = 0.053097
+        Alpha Coefficient = 1.159642
+        Beta Coefficient = 0.053899
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.605604
-    BetaStar Coefficient = 0.083743
+    A1 Coefficient = 0.523278
+    BetaStar Coefficient = 0.065922
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.005113
-        Beta Coefficient = 0.154681
+        Alpha Coefficient = 0.699092
+        Beta Coefficient = 0.157839
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.900488
-        Beta Coefficient = 0.162108
+        Alpha Coefficient = 1.029620
+        Beta Coefficient = 0.147781
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.318551
-    BetaStar Coefficient = 0.199954
+    A1 Coefficient = 0.197847
+    BetaStar Coefficient = 0.198859
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.317126
-        Beta Coefficient = 0.084772
+        Alpha Coefficient = 0.500907
+        Beta Coefficient = 0.118823
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.228237
-        Beta Coefficient = 0.125628
+        Alpha Coefficient = 1.002920
+        Beta Coefficient = 0.138114
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.400907
-    BetaStar Coefficient = 0.149851
+    A1 Coefficient = 0.238702
+    BetaStar Coefficient = 0.099674
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.904697
-        Beta Coefficient = 0.168045
+        Alpha Coefficient = 0.685905
+        Beta Coefficient = 0.161459
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.380440
-        Beta Coefficient = 0.058909
+        Alpha Coefficient = 1.241207
+        Beta Coefficient = 0.038978
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.683401
-    BetaStar Coefficient = 0.134197
+    A1 Coefficient = 0.368704
+    BetaStar Coefficient = 0.153449
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.803948
-        Beta Coefficient = 0.039921
+        Alpha Coefficient = 0.807797
+        Beta Coefficient = 0.095124
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.400762
-        Beta Coefficient = 0.038304
+        Alpha Coefficient = 0.707051
+        Beta Coefficient = 0.057644
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.255926
-    BetaStar Coefficient = 0.148974
+    A1 Coefficient = 0.482672
+    BetaStar Coefficient = 0.120318
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.438170
-        Beta Coefficient = 0.106281
+        Alpha Coefficient = 0.255924
+        Beta Coefficient = 0.137826
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.970130
-        Beta Coefficient = 0.082717
+        Alpha Coefficient = 1.105722
+        Beta Coefficient = 0.164628
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.490677
-    BetaStar Coefficient = 0.068157
+    A1 Coefficient = 0.149567
+    BetaStar Coefficient = 0.068926
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.845842
-        Beta Coefficient = 0.076096
+        Alpha Coefficient = 0.518590
+        Beta Coefficient = 0.196233
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.449547
-        Beta Coefficient = 0.165119
+        Alpha Coefficient = 0.547744
+        Beta Coefficient = 0.146277
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.321699
-    BetaStar Coefficient = 0.180797
+    A1 Coefficient = 0.748234
+    BetaStar Coefficient = 0.107183
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.419067
-        Beta Coefficient = 0.172508
+        Alpha Coefficient = 0.585772
+        Beta Coefficient = 0.135560
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.263650
-        Beta Coefficient = 0.040883
+        Alpha Coefficient = 0.663604
+        Beta Coefficient = 0.170555
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.526713
-    BetaStar Coefficient = 0.103942
+    A1 Coefficient = 0.591097
+    BetaStar Coefficient = 0.186249
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.761399
-        Beta Coefficient = 0.055663
+        Alpha Coefficient = 0.413886
+        Beta Coefficient = 0.075538
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.775855
-        Beta Coefficient = 0.119028
+        Alpha Coefficient = 0.379563
+        Beta Coefficient = 0.129577
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.342212
-    BetaStar Coefficient = 0.170256
+    A1 Coefficient = 0.423443
+    BetaStar Coefficient = 0.043720
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.530949
-        Beta Coefficient = 0.178597
+        Alpha Coefficient = 0.921221
+        Beta Coefficient = 0.057966
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.782713
-        Beta Coefficient = 0.185398
+        Alpha Coefficient = 0.238994
+        Beta Coefficient = 0.111068
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.697992
-    BetaStar Coefficient = 0.050109
+    A1 Coefficient = 0.203062
+    BetaStar Coefficient = 0.049790
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.288768
-        Beta Coefficient = 0.147932
+        Alpha Coefficient = 0.804224
+        Beta Coefficient = 0.099753
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.823063
-        Beta Coefficient = 0.063705
+        Alpha Coefficient = 0.529183
+        Beta Coefficient = 0.140743
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.172276
-    BetaStar Coefficient = 0.128944
+    A1 Coefficient = 0.273510
+    BetaStar Coefficient = 0.196406
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.205020
-        Beta Coefficient = 0.065099
+        Alpha Coefficient = 0.461618
+        Beta Coefficient = 0.079385
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.947692
-        Beta Coefficient = 0.055457
+        Alpha Coefficient = 0.944054
+        Beta Coefficient = 0.061429
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.768090
-    BetaStar Coefficient = 0.059149
+    A1 Coefficient = 0.302923
+    BetaStar Coefficient = 0.211376
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.485929
-        Beta Coefficient = 0.142310
+        Alpha Coefficient = 1.014061
+        Beta Coefficient = 0.167938
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.845080
-        Beta Coefficient = 0.133501
+        Alpha Coefficient = 0.588314
+        Beta Coefficient = 0.152254
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.394706
-    BetaStar Coefficient = 0.112260
+    A1 Coefficient = 0.757959
+    BetaStar Coefficient = 0.056490
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.944883
-        Beta Coefficient = 0.073127
+        Alpha Coefficient = 0.545250
+        Beta Coefficient = 0.178836
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.200371
-        Beta Coefficient = 0.073638
+        Alpha Coefficient = 0.636283
+        Beta Coefficient = 0.157484
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.421595
-    BetaStar Coefficient = 0.204439
+    A1 Coefficient = 0.533778
+    BetaStar Coefficient = 0.171012
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.650265
-        Beta Coefficient = 0.043577
+        Alpha Coefficient = 0.211901
+        Beta Coefficient = 0.069406
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.114415
-        Beta Coefficient = 0.122138
+        Alpha Coefficient = 0.289555
+        Beta Coefficient = 0.120697
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.733890
-    BetaStar Coefficient = 0.159980
+    A1 Coefficient = 0.577628
+    BetaStar Coefficient = 0.107975
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.624151
-        Beta Coefficient = 0.071173
+        Alpha Coefficient = 0.290181
+        Beta Coefficient = 0.083381
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.359621
-        Beta Coefficient = 0.091517
+        Alpha Coefficient = 0.396156
+        Beta Coefficient = 0.108193
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.716158
-    BetaStar Coefficient = 0.074228
+    A1 Coefficient = 0.267070
+    BetaStar Coefficient = 0.215527
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.611832
-        Beta Coefficient = 0.203970
+        Alpha Coefficient = 0.216077
+        Beta Coefficient = 0.037337
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.734590
-        Beta Coefficient = 0.149580
+        Alpha Coefficient = 0.416672
+        Beta Coefficient = 0.182538
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.354029
-    BetaStar Coefficient = 0.115534
+    A1 Coefficient = 0.350707
+    BetaStar Coefficient = 0.158410
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.600122
-        Beta Coefficient = 0.199842
+        Alpha Coefficient = 0.565182
+        Beta Coefficient = 0.057012
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.936929
-        Beta Coefficient = 0.077757
+        Alpha Coefficient = 0.307530
+        Beta Coefficient = 0.161447
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.485991
-    BetaStar Coefficient = 0.222016
+    A1 Coefficient = 0.731189
+    BetaStar Coefficient = 0.219284
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.269913
-        Beta Coefficient = 0.194887
+        Alpha Coefficient = 0.382736
+        Beta Coefficient = 0.202939
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.632978
-        Beta Coefficient = 0.086360
+        Alpha Coefficient = 0.341546
+        Beta Coefficient = 0.090328
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.551445
-    BetaStar Coefficient = 0.036534
+    A1 Coefficient = 0.620827
+    BetaStar Coefficient = 0.092730
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.966059
-        Beta Coefficient = 0.059920
+        Alpha Coefficient = 0.607978
+        Beta Coefficient = 0.034839
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.667260
-        Beta Coefficient = 0.035711
+        Alpha Coefficient = 1.311521
+        Beta Coefficient = 0.075899
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.224961
-    BetaStar Coefficient = 0.173584
+    A1 Coefficient = 0.219712
+    BetaStar Coefficient = 0.126169
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.057582
-        Beta Coefficient = 0.063265
+        Alpha Coefficient = 0.341080
+        Beta Coefficient = 0.098020
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.104073
-        Beta Coefficient = 0.157127
+        Alpha Coefficient = 0.864531
+        Beta Coefficient = 0.152889
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.274809
-    BetaStar Coefficient = 0.177073
+    A1 Coefficient = 0.721060
+    BetaStar Coefficient = 0.161560
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.018713
-        Beta Coefficient = 0.191210
+        Alpha Coefficient = 0.996681
+        Beta Coefficient = 0.072325
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.027112
-        Beta Coefficient = 0.184150
+        Alpha Coefficient = 0.458290
+        Beta Coefficient = 0.121605
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.628730
-    BetaStar Coefficient = 0.064340
+    A1 Coefficient = 0.400729
+    BetaStar Coefficient = 0.136810
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.268212
-        Beta Coefficient = 0.117438
+        Alpha Coefficient = 0.236422
+        Beta Coefficient = 0.152374
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.429559
-        Beta Coefficient = 0.076218
+        Alpha Coefficient = 1.313386
+        Beta Coefficient = 0.062648
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.239644
-    BetaStar Coefficient = 0.085641
+    A1 Coefficient = 0.509341
+    BetaStar Coefficient = 0.179079
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.181147
-        Beta Coefficient = 0.136214
+        Alpha Coefficient = 1.056062
+        Beta Coefficient = 0.204215
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.575620
-        Beta Coefficient = 0.099487
+        Alpha Coefficient = 1.368894
+        Beta Coefficient = 0.114687
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.301469
-    BetaStar Coefficient = 0.207673
+    A1 Coefficient = 0.647870
+    BetaStar Coefficient = 0.037779
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.683827
-        Beta Coefficient = 0.114833
+        Alpha Coefficient = 0.351384
+        Beta Coefficient = 0.143825
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.991859
-        Beta Coefficient = 0.095752
+        Alpha Coefficient = 0.890708
+        Beta Coefficient = 0.078182
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.424681
-    BetaStar Coefficient = 0.098859
+    A1 Coefficient = 0.443176
+    BetaStar Coefficient = 0.148660
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.704824
-        Beta Coefficient = 0.164675
+        Alpha Coefficient = 1.073730
+        Beta Coefficient = 0.149339
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.612891
-        Beta Coefficient = 0.104834
+        Alpha Coefficient = 0.901238
+        Beta Coefficient = 0.065751
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.538335
-    BetaStar Coefficient = 0.142451
+    A1 Coefficient = 0.166450
+    BetaStar Coefficient = 0.052570
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.370017
-        Beta Coefficient = 0.081771
+        Alpha Coefficient = 0.281095
+        Beta Coefficient = 0.061248
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.487068
-        Beta Coefficient = 0.175396
+        Alpha Coefficient = 0.260623
+        Beta Coefficient = 0.032251
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.459102
-    BetaStar Coefficient = 0.055176
+    A1 Coefficient = 0.614839
+    BetaStar Coefficient = 0.090866
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.837053
-        Beta Coefficient = 0.095248
+        Alpha Coefficient = 0.549706
+        Beta Coefficient = 0.180761
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.500140
-        Beta Coefficient = 0.169575
+        Alpha Coefficient = 0.329805
+        Beta Coefficient = 0.165591
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.693522
-    BetaStar Coefficient = 0.135128
+    A1 Coefficient = 0.676054
+    BetaStar Coefficient = 0.101064
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.670019
-        Beta Coefficient = 0.202899
+        Alpha Coefficient = 0.186457
+        Beta Coefficient = 0.123001
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.284772
-        Beta Coefficient = 0.113210
+        Alpha Coefficient = 1.279270
+        Beta Coefficient = 0.051224
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.640955
-    BetaStar Coefficient = 0.212641
+    A1 Coefficient = 0.669138
+    BetaStar Coefficient = 0.114169
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.511522
-        Beta Coefficient = 0.104007
+        Alpha Coefficient = 0.745501
+        Beta Coefficient = 0.104888
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.686099
-        Beta Coefficient = 0.166311
+        Alpha Coefficient = 1.199477
+        Beta Coefficient = 0.072088
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.745504
-    BetaStar Coefficient = 0.162262
+    A1 Coefficient = 0.709817
+    BetaStar Coefficient = 0.150210
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.331280
-        Beta Coefficient = 0.053965
+        Alpha Coefficient = 0.829197
+        Beta Coefficient = 0.115290
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 1.172532
-        Beta Coefficient = 0.110094
+        Alpha Coefficient = 0.840298
+        Beta Coefficient = 0.179964
       END
     END
 END
 
 TURBULENCE MODEL:
-    A1 Coefficient = 0.758433
-    BetaStar Coefficient = 0.052092
+    A1 Coefficient = 0.252726
+    BetaStar Coefficient = 0.088021
     Option = SST
     K EPSILON REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.929537
-        Beta Coefficient = 0.091437
+        Alpha Coefficient = 1.086234
+        Beta Coefficient = 0.087114
       END
     END
     K OMEGA REGIME:
       OMEGA COEFFICIENTS:
-        Alpha Coefficient = 0.345234
-        Beta Coefficient = 0.137789
+        Alpha Coefficient = 1.193859
+        Beta Coefficient = 0.081055
       END
     END
 END
