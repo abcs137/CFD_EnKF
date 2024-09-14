@@ -100,13 +100,13 @@ fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
 
 # 绘制真实值的曲面
-#ax.plot_surface(X_grid, Y_grid, y_true_values, cmap='viridis', alpha=0.7, label='Observed Data')
+ax.plot_surface(X_grid, Y_grid, y_true_values, cmap='viridis', alpha=0.7, label='Observed Data')
 
 # 绘制模型估计值的曲面
-#ax.plot_surface(X_grid, Y_grid, y_model_from_means, cmap='Blues', alpha=0.7, label='Calibrated Data')
+ax.plot_surface(X_grid, Y_grid, y_model_from_means, cmap='Blues', alpha=0.7, label='Calibrated Data')
 
 # 绘制未处理数据的曲面
-#ax.plot_surface(X_grid, Y_grid, y_raw, cmap='spring', alpha=0.7, label='Raw Data')
+ax.plot_surface(X_grid, Y_grid, y_raw, cmap='spring', alpha=0.7, label='Raw Data')
 
 # 绘制未处理数据的曲面
 ax.plot_surface(X_grid, Y_grid, y_true_values-y_model_from_means, cmap='inferno', alpha=0.7, label='diff')
