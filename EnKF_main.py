@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # 定义参数范围
 param_ranges = (0, 15)
 
-测试区间起点 = 0
+测试区间起点 = -1
 
 测试区间终点 = 1
 
@@ -116,5 +116,5 @@ plt.plot(x_values, y_model(x_values,[7.5,7.5,7.5,7.5]), label='raw_data', color=
 plt.xlabel('x')
 plt.ylabel('y')
 plt.legend()
-plt.title('Comparison of y_true and y_model')
+plt.title('EnKF Comparison of y_true and y_model')
 plt.show()

@@ -16,17 +16,17 @@ if __name__ == '__main__':
     y_values=[]
     z_values=[]
 
+    #csv文件目录
+    folder_path = '.\data'
 
-    # Example usage:
-
-    参数表=pd.read_csv('scaled_sample_output.csv',header=None)
+    参数表=pd.read_csv('scaled_sample_output.csv',header=None)#别动
     参数表=参数表.to_numpy()
 
     #参数数量
     k=6
 
 
-    实验数据 = read_dat_file('i0_MA=0.69_压力面.dat')
+    实验数据 = read_dat_file('.\data\i=20，MA=0.9\i20_MA=0.90_吸力面.dat')
 
 
     m=实验数据.shape[0] + 1
@@ -43,7 +43,7 @@ if __name__ == '__main__':
 
     result_matrix=np.zeros((n-1,50))
 
-    folder_path = '.\data'  # Replace with the path to your folder containing CSV files
+    
     csv_files = get_csv_files_from_folder(folder_path)
     dataframes_from_folder = read_csv_files(csv_files)
     for index, df in enumerate(dataframes_from_folder):
@@ -112,9 +112,10 @@ if __name__ == '__main__':
     # 提取最后四个均值作为参数 a, b, c, d
     params_from_means = result_matrix[-k:, min_index]
     print("Extracted Parameters:", params_from_means)
+    print(f'参数编号{min_index}')
     # 记录结束时间
     end_time = time.perf_counter()
-
+    np.savetxt('完整结果.csv', X_f, delimiter=',', fmt='%f')
     # 计算运行时间
     elapsed_time = end_time - start_time
     print(f"程序运行时间: {elapsed_time:.6f} 秒")
